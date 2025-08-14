@@ -1,6 +1,7 @@
 Color Palette Generator
 
 A small website that makes random color palettes.
+Link to website: https://easy-color-palette-generator.netlify.app/
 You can click a button to get new colors, and click a color or copy icon to save its HEX code.
 
 What You Can Do
